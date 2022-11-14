@@ -9,7 +9,7 @@ You will do the following:
 3. Interact with your deployed smart contract to transfer and withdraw funds.
 */
 
-pragma solidity ^0.8.7;
+pragma solidity ^0.5.0;
 
 // Define a new contract named `JointSavings`
 contract JointSavings {
